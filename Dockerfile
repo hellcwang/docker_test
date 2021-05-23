@@ -6,6 +6,6 @@ EXPOSE 5050
 
 ADD . .
 
-RUN pip install -r mlflow_iris/requirements.txt
+RUN pip install -r requirements.txt
 
 

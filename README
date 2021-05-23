@@ -1,1 +1,15 @@
+0.Execuate sector one of jupyter notebook
+1.change the run id to current path to the model
+2.Change input data to be predicted.
+3.Output
+
+
+
+
+
+
+
+REFERENCE:
+https://www.mlflow.org/docs/latest/python_api/mlflow.sklearn.html
+https://www.mlflow.org/docs/latest/models.html
 iris.ipynb from https://blog.codecentric.de/en/2021/03/github-container-registry/
